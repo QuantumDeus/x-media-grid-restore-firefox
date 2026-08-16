@@ -1,4 +1,4 @@
-# X Media Grid Restore
+# X Media Grid Restore For FireFox 
 
 [![Click Here for the Chrome Version](https://img.shields.io/badge/Chrome_Version-Click_Here-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/QuantumDeus/x-media-grid-restore)
 
