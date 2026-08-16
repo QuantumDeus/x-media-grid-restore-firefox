@@ -1,5 +1,7 @@
 # X Media Grid Restore
 
+[![Download X Media Grid Restore for Firefox](https://img.shields.io/badge/⬇_DOWNLOAD_FOR_FIREFOX-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://github.com/QuantumDeus/x-media-grid-restore-firefox/releases/download/V1/x-media-grid-restore-firefox.xpi)
+
 A minimal local FireFox extension that asks X to use its legacy profile media
 layout. It runs only on `https://x.com/*`, has no background process, requests
 no Chrome permissions, sends no network requests, and stores no data.
