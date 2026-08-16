@@ -20,7 +20,7 @@ feature flags in both the default and per-user configurations:
 Both values are changed from `true` to `false`. This works only while X still
 ships the legacy media-grid component.
 
-
+[![Download X Media Grid Restore for Firefox](https://img.shields.io/badge/⬇_DOWNLOAD_FOR_FIREFOX-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://github.com/QuantumDeus/x-media-grid-restore-firefox/releases/download/V1/x-media-grid-restore-firefox.xpi)
 
 ## Install in Firefox
 
