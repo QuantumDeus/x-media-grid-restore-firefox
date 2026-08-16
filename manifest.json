@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "X Media Grid Restore",
+  "version": "0.1.0",
+  "description": "Restores X's legacy profile media grid while the original feature remains available.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "x-media-grid-restore@quantumdeus",
+      "strict_min_version": "128.0",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://x.com/*"],
+      "js": ["inject.js"],
+      "run_at": "document_start",
+      "world": "MAIN"
+    }
+  ]
+}
